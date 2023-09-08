@@ -1,0 +1,23 @@
+section{
+ background-color: rgb(255, 204, 0);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ padding: 10px;
+ margin: 30px;
+ border-radius: 30px;
+text-align: center;
+width: 250px;
+}
+
+.buttonlike{
+background-color: rgb(240, 228, 180);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 15px;
+border-radius: 10px;
+border-color: none;
+box-shadow: none;
+}
+
+
+section img{
+    width: 100px;
+}
