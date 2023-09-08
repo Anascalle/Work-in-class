@@ -44,7 +44,7 @@ export enum Attributes {
         <link rel="stylesheet" href="/src/components/CharacterCard/CharacteCard.css">
         <section>
         <h1>${this.name}</h1>
-        <img src="${this.image}" alt="Rick and Morty characters">
+        <img src="${this.image}" alt="img micky friends">
         <p> Especie:${this.species}</p>
         <p>Genero: ${this.gender}</p>
         <button class="buttonlike">Like</button>
